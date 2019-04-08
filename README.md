@@ -15,3 +15,4 @@ This repository contains the materials used to teach *BUEC 311 Business Economic
 | `lecture_ch13.pptx` | Chapter 13: Game Theory
 | `lecture_ch14.pptx` | Chapter 14: Oligopoly and Monopolistic Competition
 | `lecture_ch15.pptx` | Chapter 15: Factor Markets
+| `lecture_ch16.pptx` | Chapter 16: Uncertainty
